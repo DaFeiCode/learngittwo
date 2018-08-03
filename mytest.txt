@@ -1,3 +1,4 @@
 My git text three
 modify two
 test branch
+测试解决冲突
