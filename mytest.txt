@@ -2,3 +2,5 @@ My git text three
 modify two
 test branch
 在master分支修改的内容
+测试解决冲突
+
